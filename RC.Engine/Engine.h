@@ -1,0 +1,13 @@
+#ifndef Engine_h
+#define Engine_h
+
+#include "Arduino.h"
+
+class Engine
+{
+  public:
+    Engine();
+  private:
+};
+
+#endif
